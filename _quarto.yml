@@ -11,6 +11,18 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      - icon: orcid
+        href: https://orcid.org/your-orcid-id
+        
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+      - text: "Tutorials"
+      - text: "How-To"
+      - text: "Fundamentals"
+      - text: "Reference"
+
 format:
   html:
     theme: cosmo
