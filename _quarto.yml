@@ -12,7 +12,7 @@ website:
       - icon: twitter
         href: https://twitter.com
       - icon: orcid
-        href: https://orcid.org/your-orcid-id
+        href: https://orcid.org/my-orcid?orcid=0000-0002-3017-3549
         
     background: primary
     search: true
